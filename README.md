@@ -1,5 +1,5 @@
 ### Hi There 👋 I am Sandra 
 ![](images/images.jpg)
 - Learning how to code 👩‍💻
-- My soul? so cynical ⚠️
+- I ♥️ JavaScript 💋
 - drippin in finesse' 💯
