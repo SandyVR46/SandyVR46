@@ -1,6 +1,5 @@
   
-<img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg"><img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg">![4UdN](https://user-images.githubusercontent.com/41688158/156873952-c9701fc6-9530-48b5-96b6-dde13f603807.gif)<img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg"><img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg">
-
+<img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg">![4UdN](https://user-images.githubusercontent.com/41688158/156873952-c9701fc6-9530-48b5-96b6-dde13f603807.gif)<img height="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Black_300.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
