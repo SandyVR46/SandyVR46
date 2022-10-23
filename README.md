@@ -43,9 +43,9 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
 </p>
 <br/> 
 <h3 align="left">📊 Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=SandyVR46&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyvr46&" alt="sandyvr46" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyvr46&label=Profile%20views&color=0e75b6&style=flat" alt="sandyvr46" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyvr46&" alt="sandyvr46" /></p>
+
 <br/> 
 <h3 align="left">🎧Currently Listening to</h3>  
 <br/>
