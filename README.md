@@ -26,19 +26,19 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
 <br/>
 <h3 align="left">🧰 Languages and Tools</h3>
 <p align="center">
-  <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Linux" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="HTML" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="JavaScript" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="left" alt="React" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="NodeJS" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="GitHub" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="Bash" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="left" alt="MongoDB" width="50px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="left" alt="NextJS" width="50px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" />
-  <img align="left" alt="Bootstrap" width="50px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Git" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Linux" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Bash" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="MongoDB" width="30px" style="padding-right:20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="left" alt="NextJS" width="30px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" />
+  <img align="left" alt="Bootstrap" width="30px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
   <br />
 </p>
 <br/> 
