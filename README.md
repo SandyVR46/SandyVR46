@@ -41,20 +41,19 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
   <img align="left" alt="Bootstrap" width="30px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
   <br />
 </p>
+<br/>
+<h3 align="left">🎧 Listening to</h3>  
+<br/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&redirect=true)
+
 <br/> 
 <h3 align="left">📊 Github Stats</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyvr46&label=Profile%20views&color=0e75b6&style=flat" alt="sandyvr46" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyvr46&" alt="sandyvr46" /></p>
 
 <br/> 
-<h3 align="left">🎧 Listening to</h3>  
-<br/>
 
-
-
-<br/> 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&redirect=true)
 
 
 <br/>  
