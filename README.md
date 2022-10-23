@@ -50,7 +50,7 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
 <h3 align="left">🎧 Listening to</h3>  
 <br/>
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&cover_image=true&theme=default&show_offline=false)  
+
 
 <br/> 
 
