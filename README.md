@@ -41,11 +41,12 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
   <img align="left" alt="Bootstrap" width="30px" style="padding-right:20px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
   <br />
 </p>
+
 <br/>
 <h3 align="left">🎧 Listening to</h3>  
 <br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k4pw7ktivyz2x4oxigxfyxqhua&redirect=true)
 
 <br/> 
 <h3 align="left">📊 Github Stats</h3>
