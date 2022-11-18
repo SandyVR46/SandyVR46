@@ -57,8 +57,8 @@ Girl who loves tech. Mastering in Computer Applications. Trying to figure out wh
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+<h4 align="left">🦜 These parrots passed the vibe check ✔️ </h3>
 
-Here are some parrots🦜
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
