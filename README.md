@@ -1,8 +1,8 @@
 # 👒 Sandra S S
 
-**`Technophile (Web developer / Business Developer) `**
+**`Technophile (Web developer / Mob developer / Business Developer) `**
   
-Girl who loves tech. Mastering in Computer Applications. Trying to figure out what the hell is happening. Even though the code is all messed up I am still loving it. 
+Girl who loves tech. Flutter Intern. Trying to figure out what the hell is happening. Even though the code is all messed up I am still loving it. 
 
 
 <h3 align="left" > 🔌 Let's talk about dev. Connect with me 🤝</h3>
